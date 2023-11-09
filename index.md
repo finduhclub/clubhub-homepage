@@ -16,9 +16,12 @@ Users should be able to specify interests and be notified when a club is created
 
 Admins can monitor the website and create new interests.
 
-## Contract
-<object data="https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit#heading=h.xvzujdhhbpst" type="application/pdf" width="700px" height="700px">
-    <embed src="https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit#heading=h.xvzujdhhbpst">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit#heading=h.xvzujdhhbpst">Download PDF</a>.</p>
-    </embed>
-</object>
+## About the Members
+
+### [Joshua Brewer](https://github.com/brewerj3)
+### [Brayden Danielson](https://github.com/bfd2)
+### [Tyler Cho](https://github.com/tycho01)
+### [Emily Pham](https://github.com/empham)
+### [Kaianu Reyes-Huynh](https://github.com/kreyeshuynh)
+
+### [Team Contract](https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit?usp=sharing)
