@@ -1,4 +1,6 @@
-### Club Hub Homepage
+# Find UH Club
+
+<img src="images/landing-page.png">
 
 ## Problem
 
@@ -14,3 +16,12 @@ Users should be able to specify interests and be notified when a club is created
 
 Admins can monitor the website and create new interests.
 
+## About the Members
+
+### [Joshua Brewer](https://github.com/brewerj3)
+### [Brayden Danielson](https://github.com/bfd2)
+### [Tyler Cho](https://github.com/tycho01)
+### [Emily Pham](https://github.com/empham)
+### [Kaianu Reyes-Huynh](https://github.com/kreyeshuynh)
+
+### [Team Contract](https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit?usp=sharing)
