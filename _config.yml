@@ -2,11 +2,11 @@ title: finduhclub
 description: An app that allows students to browse a list of clubs and get information on them.
 google_analytics:
 show_downloads: true
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 github:
   is_project_page: true
-  repository_url: https://github.com/
+  repository_url: https://github.com/finduhclub/finduhclub.github.io
 gems:
   - jekyll-mentions
