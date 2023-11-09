@@ -16,7 +16,7 @@ Users should be able to specify interests and be notified when a club is created
 
 Admins can monitor the website and create new interests.
 
-## [Project Link] (https://github.com/orgs/finduhclub/projects/1)
+## [Project Link](https://github.com/orgs/finduhclub/projects/1)
 
 ## About the Members
 
