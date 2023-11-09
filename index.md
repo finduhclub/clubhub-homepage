@@ -1,4 +1,6 @@
-### Club Hub Homepage
+# Find UH Club
+
+<img src="images/landing-page.png">
 
 ## Problem
 
@@ -14,3 +16,9 @@ Users should be able to specify interests and be notified when a club is created
 
 Admins can monitor the website and create new interests.
 
+## Contract
+<object data="https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit#heading=h.xvzujdhhbpst" type="application/pdf" width="700px" height="700px">
+    <embed src="https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit#heading=h.xvzujdhhbpst">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit#heading=h.xvzujdhhbpst">Download PDF</a>.</p>
+    </embed>
+</object>
