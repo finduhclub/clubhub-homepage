@@ -18,6 +18,8 @@ Admins can monitor the website and create new interests.
 
 ## [Project Link](https://github.com/finduhclub)
 
+## [Milestone 1](https://github.com/orgs/finduhclub/projects/1/views/1)
+
 ## About the Members
 
 ### [Joshua Brewer](https://github.com/brewerj3)
