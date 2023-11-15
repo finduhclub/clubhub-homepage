@@ -17,16 +17,16 @@ Users should be able to specify interests and be notified when a club is created
 Admins can monitor the website and create new interests.
 
 ## [Project Link](https://github.com/finduhclub)
-
-## [Milestone 1](https://github.com/orgs/finduhclub/projects/1/views/1)
+## Development History
+### [Milestone 1](https://github.com/orgs/finduhclub/projects/1/views/1)
 
 ## About the Members
 
-### [Joshua Brewer](https://github.com/brewerj3)
-### [Brayden Danielson](https://github.com/bfd2)
-### [Tyler Cho](https://github.com/tycho01)
-### [Emily Pham](https://github.com/empham)
-### [Kaianu Reyes-Huynh](https://github.com/kreyeshuynh)
+#### [Joshua Brewer](https://github.com/brewerj3)
+#### [Brayden Danielson](https://github.com/bfd2)
+#### [Tyler Cho](https://github.com/tycho01)
+#### [Emily Pham](https://github.com/empham)
+#### [Kaianu Reyes-Huynh](https://github.com/kreyeshuynh)
 
 ## Team Contract 
 
