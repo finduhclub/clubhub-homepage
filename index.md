@@ -23,7 +23,25 @@ A link to our website can be found [here](http://164.92.125.147/)
 
 ## Development History
 
-### [Milestone 1](https://github.com/orgs/finduhclub/projects/1/views/1)
+### [Milestone 1](https://github.com/orgs/finduhclub/projects/1/views/1): Mockup
+The goal of Milestone 1 was to create mockup pages of the website. We were also tasked with deploying our created landing page and creating a domain for our project. 
+
+Here are our mockup pages for our Milestone 1:
+
+This is our landing page:
+<img src="images/mockup-landing-page.png">
+
+This is our add clubs page:
+<img src="images/mockup-add-clubs-page.png">
+
+This is our search clubs page:
+<img src="images/mockup-search-clubs-page.png">
+
+This is our dropdown filter menu page:
+<img src="images/mockup-dropdown-filter.png">
+
+This is our club view page:
+<img src="images/mockup-club-view.png">
 
 ## About the Members
 
