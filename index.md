@@ -43,6 +43,9 @@ This is our dropdown filter menu page:
 This is our club view page:
 <img src="images/mockup-club-view.png">
 
+This is our admin manage page:
+<img src="images/mockup-manage-clubs.png">
+
 ## About the Members
 
 #### [Joshua Brewer](https://github.com/brewerj3)
