@@ -16,6 +16,9 @@ Users should be able to specify interests and be notified when a club is created
 
 Admins can monitor the website and create new interests.
 
+## Deployment
+A link to our website can be found [here](http://164.92.125.147/)
+
 ## [Project Link](https://github.com/orgs/finduhclub/projects)
 
 ## Development History
@@ -32,4 +35,4 @@ Admins can monitor the website and create new interests.
 
 ## Team Contract 
 
-#### [Team Contract](https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit?usp=sharing)
+Our team contract can be found [here](https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit?usp=sharing)
