@@ -16,10 +16,10 @@ Users should be able to specify interests and be notified when a club is created
 
 Admins can monitor the website and create new interests.
 
+# [Project Link](https://github.com/orgs/finduhclub/projects)
+
 ## Deployment
 A link to our website can be found [here](http://164.92.125.147/)
-
-## [Project Link](https://github.com/orgs/finduhclub/projects)
 
 ## Development History
 
