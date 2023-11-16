@@ -46,6 +46,8 @@ This is our club view page:
 This is our admin manage page:
 <img src="images/mockup-manage-clubs.png">
 
+### [Milestone 2](https://github.com/orgs/finduhclub/projects/2): 
+
 ## About the Members
 
 #### [Joshua Brewer](https://github.com/brewerj3)
