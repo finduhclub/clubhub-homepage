@@ -22,12 +22,25 @@ A link to our website can be found [here](http://164.92.125.147/)
 ## Development History
 
 ### [Milestone 1](https://github.com/orgs/finduhclub/projects/1/views/1): Mockup
-The goal of Milestone 1 was to create mockup pages of the website. We were also tasked with deploying our created landing page and creating a domain for our project. 
+The goal of Milestone 1 was to create mockup pages of the website. Some of the key pages such as the landing, sign-in, home, and profile pages were drafted as HTML pages. We were also tasked with deploying our created landing page and creating a domain for our project. 
 
 Here are our mockup pages for our Milestone 1:
 
-This is our landing page:
-<img src="images/mockup-landing-page.png">
+This is our landing page (HTML):
+<img src="images/landing-page.png">
+
+This is our sign-in page (HTML):
+<img src="images/sign-in.png">
+
+This is our home page (HTML) which is displayed upon successful login. Note that the navigation bar depends on the user's role (regular user, club admin, or super admin):
+<img src="images/home-page.png">
+
+This is our view profile page followed by a list profiles for super admins (HTML):
+<img src="images/view-profile.png">
+<img src="images/list-profiles-admin.png">
+
+This is our edit profile page (HTML):
+<img src="images/edit-profile.png">
 
 This is our add clubs page:
 <img src="images/mockup-add-clubs-page.png">
@@ -57,3 +70,6 @@ This is our admin manage page:
 ## Team Contract 
 
 Our team contract can be found [here](https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit?usp=sharing)
+
+## Special Thanks
+Our app is based on [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/). We would like to thank [ics-software-enginnering](https://github.com/ics-software-engineering) for providing us with, and maintaining, this template.
