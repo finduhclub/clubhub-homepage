@@ -68,6 +68,8 @@ Here is our View Clubs Page:
 
 ### [Milestone 3](https://github.com/orgs/finduhclub/projects/3): 
 
+![ci-badge](https://github.com/finduhclub/finduhclub/workflows/ci-finduhclub/badge.svg)
+
 ## About the Members
 
 #### [Joshua Brewer](https://github.com/brewerj3)
