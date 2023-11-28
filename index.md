@@ -58,6 +58,13 @@ This is our admin manage page:
 <img src="images/mockup-manage-clubs.png">
 
 ### [Milestone 2](https://github.com/orgs/finduhclub/projects/2): 
+The goal of Milestone 2 is to increase the functionality of the app from Milestone 1. We needed to add at least one page to read from a database and one page to write to a database. We also had to make sure that our website adheres to testing standards by using TestCafe.
+
+Here is our Add Clubs Page:
+<img src="images/add-clubs-page.png">
+
+Here is our View Clubs Page:
+<img src="images/view-clubs-page.png">
 
 ## About the Members
 
