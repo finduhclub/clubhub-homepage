@@ -66,6 +66,8 @@ Here is our Add Clubs Page:
 Here is our View Clubs Page:
 <img src="images/view-clubs-page.png">
 
+### [Milestone 3](https://github.com/orgs/finduhclub/projects/3): 
+
 ## About the Members
 
 #### [Joshua Brewer](https://github.com/brewerj3)
