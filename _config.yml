@@ -2,7 +2,6 @@ title: finduhclub
 description: An app that allows students to browse a list of clubs and get information on them.
 google_analytics:
 show_downloads: false
-ci: true
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
@@ -10,8 +9,7 @@ plugins:
 github:
   is_project_page: true
   repository_url: https://github.com/orgs/finduhclub/projects
-  milestones: true
-  show_ci-badge: true
-  ci-badge: https://github.com/finduhclub/finduhclub/workflows/ci-finduhclub/badge.svg
+
+image: https://github.com/finduhclub/finduhclub/workflows/ci-finduhclub/badge.svg
 gems:
   - jekyll-mentions
