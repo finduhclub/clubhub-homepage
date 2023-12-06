@@ -31,6 +31,26 @@ Here you can set a username, add a profile picture, select your interest in club
 View Clubs page:
 <img src="images/view-club-page.png" alt="view club page">
 
+# Community Feedback
+
+
+
+# Developer Guide
+
+To install and run this application yourself, clone the GitHub repo with this link:
+```
+https://github.com/finduhclub/finduhclub.git
+```
+Then run:
+```
+meteor npm install
+```
+in the app directory, when that is done, run:
+```
+meteor npm run start
+```
+The app is now running on localhost:3000.
+
 
 ## Deployment
 A link to our website can be found [here](http://164.92.125.147/)
