@@ -2,9 +2,6 @@
 
 <img src="images/landing-page.png">
 
-
-# Overview
-
 ## Problem
 
 UH Manoa has many clubs available for students to join. There is no easy way for students to learn about all the different clubs and what, as well as how to join a particular club.
@@ -19,46 +16,13 @@ Users should be able to specify interests and be notified when a club is created
 
 Admins can monitor the website and create new interests.
 
-## User Guide
-
-First thing to do is signup for an account. The landing page should have a signup form on the left side of the screen.  Fill it out and submit. If you use the same email as another person already registered, you will be unable to create an account.
-<img src="images/landing-page.png">
-
-You will be redirected to the edit profile page:
-<img src="images/edit-profile.png" alt="edit-profile">
-Here you can set a username, add a profile picture, select your interest in clubs, and any clubs you are a part of. Once you are done, select view clubs to learn about other clubs on the website.
-
-View Clubs page:
-<img src="images/view-club-page.png" alt="view club page">
-
-# Community Feedback
-
-
-
-# Developer Guide
-
-To install and run this application yourself, clone the GitHub repo with this link:
-```
-https://github.com/finduhclub/finduhclub.git
-```
-Then run:
-```
-meteor npm install
-```
-in the app directory, when that is done, run:
-```
-meteor npm run start
-```
-The app is now running on localhost:3000.
-
-
 ## Deployment
 A link to our website can be found [here](http://164.92.125.147/)
 
 ## Development History
 
 ### [Milestone 1](https://github.com/orgs/finduhclub/projects/1/views/1): Mockup
-The goal of Milestone 1 was to create mockup pages of the website. Some of the key pages such as the landing, sign-in, home, and profile pages were drafted as HTML pages. We were also tasked with deploying our created landing page and creating a domain for our project.
+The goal of Milestone 1 was to create mockup pages of the website. Some of the key pages such as the landing, sign-in, home, and profile pages were drafted as HTML pages. We were also tasked with deploying our created landing page and creating a domain for our project. 
 
 Here are our mockup pages for our Milestone 1:
 
@@ -93,7 +57,7 @@ This is our club view page:
 This is our admin manage page:
 <img src="images/mockup-manage-clubs.png">
 
-### [Milestone 2](https://github.com/orgs/finduhclub/projects/2):
+### [Milestone 2](https://github.com/orgs/finduhclub/projects/2): 
 The goal of Milestone 2 is to increase the functionality of the app from Milestone 1. We needed to add at least one page to read from a database and one page to write to a database. We also had to make sure that our website adheres to testing standards by using TestCafe.
 
 Here is our Add Clubs Page:
@@ -102,7 +66,7 @@ Here is our Add Clubs Page:
 Here is our View Clubs Page:
 <img src="images/view-clubs-page.png">
 
-### [Milestone 3](https://github.com/orgs/finduhclub/projects/3):
+### [Milestone 3](https://github.com/orgs/finduhclub/projects/3): 
 
 ![ci-badge](https://github.com/finduhclub/finduhclub/workflows/ci-finduhclub/badge.svg)
 
@@ -114,7 +78,7 @@ Here is our View Clubs Page:
 #### [Emily Pham](https://github.com/empham)
 #### [Kaianu Reyes-Huynh](https://github.com/kreyeshuynh)
 
-## Team Contract
+## Team Contract 
 
 Our team contract can be found [here](https://docs.google.com/document/d/17JOV43Aup9_bZ_E9dZ_NoMt8ucx9kaBhIeusmvkyDBg/edit?usp=sharing)
 
