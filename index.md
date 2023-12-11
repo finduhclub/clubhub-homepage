@@ -113,7 +113,7 @@ Here is our Manage Clubs Page (Admin):
 <img src="images/manage-clubs-page.png">
 
 Here is our Edit Clubs Page (Admin):
-<img src="images/edit-clubs-page.png">
+<img src="images/edit-club-page.png">
 
 Here is our Change Password Page:
 <img src="images/change-password-page.png">
