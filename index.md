@@ -32,8 +32,11 @@ View Clubs page:
 <img src="images/view-club-page.png" alt="view club page">
 
 # Community Feedback
-
-
+1.  "This website is a game-changer – it effortlessly connects UH Manoa students with diverse clubs, making campus life more accessible and engaging."
+2.   "Finally, a user-friendly platform that not only showcases clubs but also puts the power in the hands of admins to personalize content, ensuring a dynamic and welcoming online community."
+3.   "The club filtering feature is a standout, providing a tailored experience for students to explore and join clubs that align with their interests effortlessly."
+4.   "This website revolutionizes the way UH Manoa students discover and connect with clubs, offering a user-friendly experience that's both efficient and enjoyable."
+5.   "This website doesn't just showcase clubs; it's a dynamic, interactive platform that fosters a sense of belonging. The admin features, from personalized club pages to content monitoring, make it a valuable addition to the UH Manoa community."
 
 # Developer Guide
 
@@ -104,7 +107,18 @@ Here is our View Clubs Page:
 <img src="images/view-clubs-page.png">
 
 ### [Milestone 3](https://github.com/orgs/finduhclub/projects/3):
+The goal of Milestone 3 is to increase the functionality of the app from Milestone 2 by adding multiple records of real data. This also combines with keeping up with using TestCafe tests and making sure the deployment is running smoothly. 
 
+Here is our Manage Clubs Page (Admin):
+<img src="images/manage-clubs-page.png">
+
+Here is our Edit Clubs Page (Admin):
+<img src="images/edit-clubs-page.png">
+
+Here is our Change Password Page:
+<img src="images/change-password-page.png">
+
+### CI/CD
 ![ci-badge](https://github.com/finduhclub/finduhclub/workflows/ci-finduhclub/badge.svg)
 
 ## About the Members
