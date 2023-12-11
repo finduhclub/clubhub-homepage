@@ -37,6 +37,7 @@ View Clubs page:
 
 # Developer Guide
 
+Install [Meteor](https://docs.meteor.com/install.html)
 To install and run this application yourself, clone the GitHub repo with this link:
 ```
 https://github.com/finduhclub/finduhclub.git
